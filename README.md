@@ -1,4 +1,4 @@
-# Hangman (English) – Word Guessing Game (Python)
+# Hangman – Word Guessing Game (Python)
 
 **Hangman** is a simple console-based Python game where the player guesses a hidden word one letter at a time, with up to **7 attempts** before the hangman is completed.
 
@@ -30,7 +30,7 @@
 | Technology | Purpose |
 | --- | --- |
 | Python | Game logic + console input/output |
-| `random` (stdlib) | Random word choice |
+| `random` | Random word choice |
 
 ---
 
@@ -38,4 +38,11 @@
 1) Clone the repository
 
 ```bash
-git clone https://github.com/marsonmezini1/Hangman_Game
+git clone https://github.com/marsonmezini1/Hangman_Game.git
+cd Hangman_Game
+```
+## Run
+```bash
+python Hangman_game.py
+```
+
